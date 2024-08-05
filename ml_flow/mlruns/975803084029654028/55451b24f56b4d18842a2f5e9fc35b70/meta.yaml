@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thaiv7/Desktop/Code/learn_data_science/ml_flow/mlruns/975803084029654028/55451b24f56b4d18842a2f5e9fc35b70/artifacts
+end_time: 1722876069577
+entry_point_name: ''
+experiment_id: '975803084029654028'
+lifecycle_stage: active
+run_id: 55451b24f56b4d18842a2f5e9fc35b70
+run_name: lyrical-sow-573
+run_uuid: 55451b24f56b4d18842a2f5e9fc35b70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722876068906
+status: 3
+tags: []
+user_id: thaiv7

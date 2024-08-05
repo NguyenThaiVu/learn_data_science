@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thaiv7/Desktop/Code/learn_data_science/ml_flow/mlruns/975803084029654028/fafce6cea84747c4b151ff7b1677893c/artifacts
+end_time: 1722876078508
+entry_point_name: ''
+experiment_id: '975803084029654028'
+lifecycle_stage: active
+run_id: fafce6cea84747c4b151ff7b1677893c
+run_name: efficient-lark-148
+run_uuid: fafce6cea84747c4b151ff7b1677893c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722876076499
+status: 3
+tags: []
+user_id: thaiv7

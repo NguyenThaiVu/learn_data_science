@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thaiv7/Desktop/Code/learn_data_science/ml_flow/mlruns/849617652940264972/4afc76f874b146808e367fc6ebd87975/artifacts
+end_time: 1722875497100
+entry_point_name: ''
+experiment_id: '849617652940264972'
+lifecycle_stage: active
+run_id: 4afc76f874b146808e367fc6ebd87975
+run_name: smiling-bird-766
+run_uuid: 4afc76f874b146808e367fc6ebd87975
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722875486181
+status: 3
+tags: []
+user_id: thaiv7

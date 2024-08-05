@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thaiv7/Desktop/Code/learn_data_science/ml_flow/mlruns/849617652940264972/7a824fb1825346aeae62fb2d97e9aff1/artifacts
+end_time: 1722875845617
+entry_point_name: ''
+experiment_id: '849617652940264972'
+lifecycle_stage: active
+run_id: 7a824fb1825346aeae62fb2d97e9aff1
+run_name: unleashed-duck-342
+run_uuid: 7a824fb1825346aeae62fb2d97e9aff1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722875843869
+status: 3
+tags: []
+user_id: thaiv7

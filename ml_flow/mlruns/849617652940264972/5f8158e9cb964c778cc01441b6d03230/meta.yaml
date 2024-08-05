@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thaiv7/Desktop/Code/learn_data_science/ml_flow/mlruns/849617652940264972/5f8158e9cb964c778cc01441b6d03230/artifacts
+end_time: 1722875843867
+entry_point_name: ''
+experiment_id: '849617652940264972'
+lifecycle_stage: active
+run_id: 5f8158e9cb964c778cc01441b6d03230
+run_name: mysterious-smelt-91
+run_uuid: 5f8158e9cb964c778cc01441b6d03230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722875842414
+status: 3
+tags: []
+user_id: thaiv7

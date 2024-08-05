@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thaiv7/Desktop/Code/learn_data_science/ml_flow/mlruns/849617652940264972/26d952acd1d542d9aa1e9e6e6869667b/artifacts
+end_time: 1722875840934
+entry_point_name: ''
+experiment_id: '849617652940264972'
+lifecycle_stage: active
+run_id: 26d952acd1d542d9aa1e9e6e6869667b
+run_name: angry-shrike-855
+run_uuid: 26d952acd1d542d9aa1e9e6e6869667b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722875839450
+status: 3
+tags: []
+user_id: thaiv7

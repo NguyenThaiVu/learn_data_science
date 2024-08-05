@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thaiv7/Desktop/Code/learn_data_science/ml_flow/mlruns/975803084029654028/9e726bf7606a49889ebce395674ed008/artifacts
+end_time: 1722876076497
+entry_point_name: ''
+experiment_id: '975803084029654028'
+lifecycle_stage: active
+run_id: 9e726bf7606a49889ebce395674ed008
+run_name: marvelous-fowl-290
+run_uuid: 9e726bf7606a49889ebce395674ed008
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722876069580
+status: 3
+tags: []
+user_id: thaiv7
