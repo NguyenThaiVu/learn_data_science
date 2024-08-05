@@ -1,1 +1,2 @@
-mlflow/mlruns/
+ml_flow/mlruns/
+./ml_flow/mlruns/
