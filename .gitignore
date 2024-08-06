@@ -1,1 +1,3 @@
-ml_flow/mlruns/
+/ml_flow/mlruns/
+
+/dvc/data/creditcard_2023.csv
